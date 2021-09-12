@@ -1,1 +1,1 @@
-# billing-system
+# Electricity bill calculator
